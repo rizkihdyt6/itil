@@ -24,7 +24,7 @@
 
 ```bash
 
-apt install -y bzip2 && wget https://github.com/bokir-tampan/nenen/raw/main/itils.sh;chmod +x itils.sh;./itils.sh;rm -f itils.sh
+apt install -y bzip2 && wget https://github.com/rizkihdyt6/itil/raw/main/itils.sh;chmod +x itils.sh;./itils.sh to
 
 ```
 
